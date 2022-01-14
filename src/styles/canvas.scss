@@ -1,0 +1,15 @@
+@import "./vars.scss";
+
+.canvas{//class style
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+//canvas style
+canvas{
+    margin-top: 80px;
+    border: 1px solid black;
+    background-color: white;
+}
